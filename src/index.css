@@ -20,6 +20,7 @@ code {
 body{
   height: 100vh;
   overflow: hidden;
-  background: linear-gradient(to right, rgb(255, 255, 255), #bdf6fc);
+  /* background: linear-gradient(to right, rgb(190, 165, 165), #bdf6fc); */
+  background-color: rgb(30, 30, 30);
 
 }
